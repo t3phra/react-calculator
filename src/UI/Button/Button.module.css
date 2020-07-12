@@ -1,0 +1,23 @@
+.btn {
+  width: 75px;
+  height: 76px;
+  outline: none;
+  border: none;
+  box-shadow: none;
+  color: #463f3ab0;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.operationBtn {
+  background-color: #b17b54da;
+}
+
+.clearBtn {
+  width: 300px;
+  background-color: #a8602c;
+  color: #e5e4e2e3;
+  font-size: 1.5rem;
+  outline: none;
+  border-radius: 0 0 20px 20px;
+}
