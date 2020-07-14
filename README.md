@@ -11,7 +11,6 @@ And run app in the development mode:
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 <br />
 
-
 ## Dependencies
 
 ```
@@ -19,6 +18,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "classnames": "^2.2.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
